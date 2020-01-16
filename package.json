@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ossich/myapp/issues"
   },
-  "homepage": "https://github.com/ossich/myapp#readme"
+  "homepage": "https://github.com/ossich/myapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
