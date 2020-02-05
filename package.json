@@ -1,8 +1,8 @@
 {
-  "name": "myapp",
+  "name": "app",
   "version": "1.0.0",
-  "description": "Express study",
-  "main": "aap.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/ossich/myapp/issues"
   },
-  "homepage": "https://github.com/ossich/myapp#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/ossich/myapp#readme"
 }
